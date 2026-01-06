@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m Disha 👋
 
-<!--
-**imdisha/imdisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a backend-focused developer working with **Python, Django, and REST APIs**.
+I enjoy building clean backend systems, automating workflows, and understanding how things work under the hood.
 
-Here are some ideas to get you started:
+Currently:
+- Building Django backend projects
+- Practicing API design and database modeling
+- Exploring Flutter for mobile app development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Backend:** Python, Django, Django REST Framework
+- **Databases:** SQLite, SQL
+- **Frontend/Mobile:** Flutter (learning)
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+- **Django Backend Blog** – REST-based backend with CRUD operations and admin integration  
+- **WallSync (Flutter App)** – Mobile app project focused on UI and API integration (work in progress)
+
+### 📫 Connect with me
+- GitHub: https://github.com/imdisha
